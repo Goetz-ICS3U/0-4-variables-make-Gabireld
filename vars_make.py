@@ -1,7 +1,8 @@
-#Gabriel Diab
-#February 12th, 2026
-#0.4-Variables-Make
-
+"""
+author: Gabriel Diab
+date: February 12th, 2026
+0.4-Variables-Make
+"""
 
 
 #input
